@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "notes": "See the assets below to install this release (macOS). Unsigned builds need Right-click → Open the first time.",
-  "pub_date": "2026-09-26T11:36:20.911Z",
+  "notes": "See the assets below to install this release (Windows). Prefer the NSIS `.exe` installer. SmartScreen may show Unknown publisher until the app is code-signed.",
+  "pub_date": "2026-09-26T12:09:05.751Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaFArM2h5MENxMzdXZVRYYkJXOEpmaVBiNzBCYmZaUTJVbXFSdFcraDhuVWhHL0VjVEhOcUJvQ0JwK04wek82RkRvUzIyQTltbzJkbHdIeHlKS0FoR1R6MEpkbzdycEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDIyNTM2CWZpbGU6RmlsZVByZXNzLmFwcC50YXIuZ3oKTmhFdmMxSG9wcStKenVmQnlPZysySzlxU0x4MDJYaytwdU9kbmRLcDdiR3hGRlBLUnl1MG5sYm11LzNua3Z1cHpCOENrYzJFT0dGU2F0RHJjUk5TQ3c9PQo=",
@@ -18,6 +18,18 @@
     "darwin-aarch64-app": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaFArM2h5MENxMzZpZjQzRWhycVJZY2hEV1F2V3Fub3VwNEF1UjhzaTZJMEpJamtGNENlSllKTW9sTE5EYWNHSDZtTDJCczIxdS91TVZYSklGclBINzVGOFUwbTJNa0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDIyNTc2CWZpbGU6RmlsZVByZXNzLmFwcC50YXIuZ3oKd0Y0aXFhNVRRWm1FaUZxY1A3blp1dUEwYUZrZEUxWHlLUVFFSFBIanVnRUV4SFlFdWFZN2YzN2RlWkVZQmpnOUdRZEVpOUdETXhvK04rVmxPYU1RQ3c9PQo=",
       "url": "https://github.com/achuthhadnoor/filepress-releases/releases/download/v0.1.0/FilePress_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaFArM2h5MENxMzBuYy9ZUkU5NEdvY1B4NnlxN2tXdTJyMEFweHJSWjY3WnZWQVZHeWgzekZZd1p0SEN5SGpkZkw4NHByZ0xwaFVOSUpCOFNYTmNYWXAyV2E4Sis3M1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDI0NTM0CWZpbGU6RmlsZVByZXNzXzAuMS4wX3g2NC1zZXR1cC5leGUKTExURDAzeVU0MmVWeUpnRUJXL0lST3JSNHZ0RHVyaEx1Y3FycEczU1hQWDlaYU5aRUR3dzFaYktBRnB1ZnJUTmc3OWVEdWc5Wk82aTBpSEtSUytoQ2c9PQo=",
+      "url": "https://github.com/achuthhadnoor/filepress-releases/releases/download/v0.1.0/FilePress_0.1.0_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaFArM2h5MENxMzBuYy9ZUkU5NEdvY1B4NnlxN2tXdTJyMEFweHJSWjY3WnZWQVZHeWgzekZZd1p0SEN5SGpkZkw4NHByZ0xwaFVOSUpCOFNYTmNYWXAyV2E4Sis3M1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDI0NTM0CWZpbGU6RmlsZVByZXNzXzAuMS4wX3g2NC1zZXR1cC5leGUKTExURDAzeVU0MmVWeUpnRUJXL0lST3JSNHZ0RHVyaEx1Y3FycEczU1hQWDlaYU5aRUR3dzFaYktBRnB1ZnJUTmc3OWVEdWc5Wk82aTBpSEtSUytoQ2c9PQo=",
+      "url": "https://github.com/achuthhadnoor/filepress-releases/releases/download/v0.1.0/FilePress_0.1.0_x64-setup.exe"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaFArM2h5MENxMzFxRmdPNVJUUDR6eUNXZ21RdEhYZzMyUFdyZEY4TTNWRjl0UXNPVHkrTFpSQ25Ia0tDMitJcXNGY0JMay9wT2RUTm11TmRTM08xUUYxY2RQRGN0QWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDI0NTM0CWZpbGU6RmlsZVByZXNzXzAuMS4wX3g2NF9lbi1VUy5tc2kKSGlVLytuZHowMC9tVlJuODZSSWFRTW55Z091eDJFSzdIV0trMnhTSUVsd00wTk9rSUZYdkVGdVQ1NGRTV1B5cXhDMjVEN3dBTW1HcTR2REg0SzhXQnc9PQo=",
+      "url": "https://github.com/achuthhadnoor/filepress-releases/releases/download/v0.1.0/FilePress_0.1.0_x64_en-US.msi"
     }
   }
 }
