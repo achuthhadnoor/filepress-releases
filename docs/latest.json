@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "notes": "See the assets below to install this release (macOS). Unsigned builds need Right-click → Open the first time.",
+  "pub_date": "2026-09-26T11:36:20.911Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaFArM2h5MENxMzdXZVRYYkJXOEpmaVBiNzBCYmZaUTJVbXFSdFcraDhuVWhHL0VjVEhOcUJvQ0JwK04wek82RkRvUzIyQTltbzJkbHdIeHlKS0FoR1R6MEpkbzdycEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDIyNTM2CWZpbGU6RmlsZVByZXNzLmFwcC50YXIuZ3oKTmhFdmMxSG9wcStKenVmQnlPZysySzlxU0x4MDJYaytwdU9kbmRLcDdiR3hGRlBLUnl1MG5sYm11LzNua3Z1cHpCOENrYzJFT0dGU2F0RHJjUk5TQ3c9PQo=",
+      "url": "https://github.com/achuthhadnoor/filepress-releases/releases/download/v0.1.0/FilePress_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaFArM2h5MENxMzdXZVRYYkJXOEpmaVBiNzBCYmZaUTJVbXFSdFcraDhuVWhHL0VjVEhOcUJvQ0JwK04wek82RkRvUzIyQTltbzJkbHdIeHlKS0FoR1R6MEpkbzdycEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDIyNTM2CWZpbGU6RmlsZVByZXNzLmFwcC50YXIuZ3oKTmhFdmMxSG9wcStKenVmQnlPZysySzlxU0x4MDJYaytwdU9kbmRLcDdiR3hGRlBLUnl1MG5sYm11LzNua3Z1cHpCOENrYzJFT0dGU2F0RHJjUk5TQ3c9PQo=",
+      "url": "https://github.com/achuthhadnoor/filepress-releases/releases/download/v0.1.0/FilePress_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaFArM2h5MENxMzZpZjQzRWhycVJZY2hEV1F2V3Fub3VwNEF1UjhzaTZJMEpJamtGNENlSllKTW9sTE5EYWNHSDZtTDJCczIxdS91TVZYSklGclBINzVGOFUwbTJNa0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDIyNTc2CWZpbGU6RmlsZVByZXNzLmFwcC50YXIuZ3oKd0Y0aXFhNVRRWm1FaUZxY1A3blp1dUEwYUZrZEUxWHlLUVFFSFBIanVnRUV4SFlFdWFZN2YzN2RlWkVZQmpnOUdRZEVpOUdETXhvK04rVmxPYU1RQ3c9PQo=",
+      "url": "https://github.com/achuthhadnoor/filepress-releases/releases/download/v0.1.0/FilePress_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaFArM2h5MENxMzZpZjQzRWhycVJZY2hEV1F2V3Fub3VwNEF1UjhzaTZJMEpJamtGNENlSllKTW9sTE5EYWNHSDZtTDJCczIxdS91TVZYSklGclBINzVGOFUwbTJNa0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDIyNTc2CWZpbGU6RmlsZVByZXNzLmFwcC50YXIuZ3oKd0Y0aXFhNVRRWm1FaUZxY1A3blp1dUEwYUZrZEUxWHlLUVFFSFBIanVnRUV4SFlFdWFZN2YzN2RlWkVZQmpnOUdRZEVpOUdETXhvK04rVmxPYU1RQ3c9PQo=",
+      "url": "https://github.com/achuthhadnoor/filepress-releases/releases/download/v0.1.0/FilePress_aarch64.app.tar.gz"
+    }
+  }
+}
